@@ -6,7 +6,5 @@
 //  Copyright © 2017年 qiaofeng. All rights reserved.
 //
 
-import Foundation
 
-print("Hello, World! 乔峰")
 
